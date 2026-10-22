@@ -1,0 +1,19 @@
+# Dart/Flutter generated files
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Ignore the teacher's practice files so they don't clutter the repo
+*.pdf
+*.txt
